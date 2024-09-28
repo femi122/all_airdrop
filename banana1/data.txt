@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A1315307967%2C%22first_name%22%3A%22Obafemi%22%2C%22last_name%22%3A%22Yusuf%22%2C%22username%22%3A%22Intellectualdev%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-2365979985643634141&chat_type=sender&auth_date=1727195059&hash=b30b16311ccb3c70bc84df13323b795d3f23ae064636554586965d89c6e26470
