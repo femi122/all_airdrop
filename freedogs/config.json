@@ -1,0 +1,9 @@
+{
+    "threads": 40,
+    "invitationCode": "A37NxyiL",
+    "is_do_task": true,
+    "min_wait_time": 10,
+    "max_wait_time": 20,
+    "min_taps": 300,
+    "max_taps": 500
+}
