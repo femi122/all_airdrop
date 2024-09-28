@@ -1,0 +1,1 @@
+query_id=AAG_AWZOAAAAAL8BZk5i60CC&user=%7B%22id%22%3A1315307967%2C%22first_name%22%3A%22Obafemi%22%2C%22last_name%22%3A%22Yusuf%22%2C%22username%22%3A%22Intellectualdev%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727466681&hash=492977cf49ff4329183e544e1123673b113b371c88b2c71f168a1da1050536b0
